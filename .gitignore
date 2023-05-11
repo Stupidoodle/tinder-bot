@@ -32,3 +32,5 @@ dist/
 *.bak
 *.swp
 .DS_Store
+
+_chat.txt
