@@ -33,4 +33,8 @@ dist/
 *.swp
 .DS_Store
 
+# Sensitvite Information
+*.key
+
 _chat.txt
+conversation.json
