@@ -1,6 +1,6 @@
 import json
 
-conversation = ""
+conversation = open()
 
 messages = []
 lines = conversation.strip.split("\n")
